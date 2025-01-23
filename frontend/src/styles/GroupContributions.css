@@ -1,0 +1,43 @@
+.group-contributions {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .group-contributions h3 {
+    margin-bottom: 15px;
+  }
+  
+  .group-summary {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .summary-card {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  .group-progress {
+    margin-top: 20px;
+  }
+  
+  .progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+  }
+  
+  .progress-bar-fill {
+    height: 100%;
+    background-color: #4caf50;
+    border-radius: 10px;
+  }
+  
