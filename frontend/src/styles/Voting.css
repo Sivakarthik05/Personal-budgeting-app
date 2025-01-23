@@ -1,0 +1,31 @@
+.voting-section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .voting-options {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .voting-options button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .voting-options button:hover {
+    background-color: #45a049;
+  }
+  
+  .voting-results p {
+    margin: 5px 0;
+  }
+  
